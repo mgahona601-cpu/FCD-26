@@ -1,0 +1,45 @@
+body {
+  margin: 0;
+  background: linear-gradient(135deg, #0B3D91 0%, #FFFFFF 100%);
+  font-family: Arial, sans-serif;
+  color: white;
+  text-align: center;
+  height: 100vh;
+}
+
+.portada {
+  padding-top: 100px;
+}
+
+h1 {
+  font-size: 48px;
+  color: #0B3D91;
+  text-shadow: 2px 2px 4px #FFFFFF;
+}
+
+h2 {
+  font-size: 32px;
+  color: #FFFFFF;
+}
+
+p {
+  font-size: 18px;
+  color: #0B3D91;
+  font-weight: bold;
+}
+
+button {
+  background: #0B3D91;
+  color: white;
+  border: 3px solid white;
+  padding: 15px 40px;
+  font-size: 24px;
+  border-radius: 10px;
+  margin-top: 30px;
+  cursor: pointer;
+}
+
+button:hover {
+  background: white;
+  color: #0B3D91;
+}
